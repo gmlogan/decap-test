@@ -12,7 +12,7 @@ content:
     exclude:
       - _index.md
     view:
-      fields: [title, date, thumbnail, draft]
+      fields: [title, date, draft]
       primary: title
       sort: [date, title]
       default:
@@ -39,4 +39,10 @@ content:
         pattern:
           regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
           message: lowercase letters, numbers and hyphens only
-      - name:
+      - name: wp_published
+        label: Original blog date
+        type: date
+        options: { format: "yyyy-MM-dd" }
+      - name: body
+        label: Body
+        type: rich-text
