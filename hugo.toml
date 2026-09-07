@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+locale = 'en-gb'
+title = 'Logan Van Travels'
+theme = 'ananke'
+
+[permalinks]
+  posts = '/:slug/'
