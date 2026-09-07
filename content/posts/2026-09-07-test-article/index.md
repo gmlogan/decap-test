@@ -7,7 +7,5 @@ wp_published: 2026-09-07
 ---
 **Seems to work**
 
-![](<Screenshot 2026-09-07 at 20.17.10.png>)
-
-
+![](/uploads/test/17-boggs-campsite-1.jpg)
 
