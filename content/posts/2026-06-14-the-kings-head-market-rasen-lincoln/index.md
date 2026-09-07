@@ -8,7 +8,7 @@ wp_published: "2026-07-08"
 
 14th June 2026
 
-Our first pub stop over, what a choice, thatched roof and built in 1366.
+Our first ever pub stop over, what a choice, thatched roof and built in 1366.
 
 Spent the early afternoon in Lincoln, was very surprised how nice and busy it was given a Sunday.
 
