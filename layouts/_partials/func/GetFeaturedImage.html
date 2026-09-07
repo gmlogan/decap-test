@@ -1,0 +1,41 @@
+{{/*
+	GetFeaturedImage  (project override of the Ananke partial)
+
+	Priority:
+	  1. front matter `featured_image`
+	  2. first entry of front matter `images`
+	  3. a bundle image whose name contains "feature" or "cover"
+	  4. (project addition) the first image resource in the page bundle
+
+	@return RelPermalink to the image, or "" if the page has no images.
+*/}}
+
+{{ $linkToCover := "" }}
+{{ $matches := "feature,cover" }}
+{{ with .Params.featured_image }}
+  {{ $linkToCover = strings.Trim . "/" | urls.AbsURL }}
+  {{ with $.Resources.GetMatch . }}
+    {{ $linkToCover = .RelPermalink }}
+  {{ end }}
+{{ else }}
+  {{ with .Params.images }}
+    {{ range first 1 . }}
+      {{ with . }}
+        {{ $linkToCover = strings.Trim . "/" | urls.AbsURL }}
+        {{ with $.Resources.GetMatch . }}
+          {{ $linkToCover = .RelPermalink }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ else }}
+    {{ with .Resources.ByType "image" }}
+      {{ with .GetMatch (fmt.Printf "**{%s}*" $matches) }}
+        {{ $linkToCover = .RelPermalink }}
+      {{ else }}
+        {{ $linkToCover = (index . 0).RelPermalink }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ return $linkToCover }}

@@ -2,6 +2,13 @@ baseURL = 'https://example.org/'
 locale = 'en-gb'
 title = 'Logan Van Travels'
 theme = 'ananke'
+summaryLength = 25
 
 [permalinks]
   posts = '/:slug/'
+
+[params]
+  mainSections = ["posts"]
+
+[params.ananke.pages]
+  show_list_images = true
