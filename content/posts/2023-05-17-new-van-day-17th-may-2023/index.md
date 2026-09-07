@@ -12,7 +12,7 @@ Collected our new VW T.6.1 CamperKing MonteCarlo from Barry at CamperKing Scotla
 
 Really pleased with the way our colour choices worked out and the van drives really well.
 
-Now top see if the mead of stuff we have collected in our hallway will first in it!
+Now to see if the mound of stuff we have collected in our hallway will fit in it!
 
 ![](new-van-day-17th-may-2023-1.jpg)
 
