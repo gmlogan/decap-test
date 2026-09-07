@@ -1,21 +1,19 @@
-{{/* project override: image as a full-width banner on top of the card,
-     text beneath — reads better than side-by-side in the 3-column grid. */}}
-{{ $featured_image := partials.Include "func/GetFeaturedImage.html" . }}
+{{/* project override: full-width 16:9 banner on top of the card, text below.
+     The card image is the first image in the page bundle (or a
+     feature/cover-named one); single-post pages are left untouched. */}}
 {{ $show_date := partials.Include "func/ShowDate.html" . }}
 
-{{ $thumb := $featured_image }}
+{{ $img := "" }}
 {{ with .Resources.ByType "image" }}
-  {{ with (or (.GetMatch "**{feature,cover}*") (index . 0)) }}
-    {{ $thumb = (.Fill "600x340 Center q75").RelPermalink }}
-  {{ end }}
+  {{ $img = or (.GetMatch "**{feature,cover}*") (index . 0) }}
 {{ end }}
 
 <article class="bb b--black-10 h-100">
   <div class="db pb4 dark-gray no-underline">
-    {{ if $featured_image }}
-      <a href="{{ .RelPermalink }}" class="db grow mb3">
-        <img src="{{ $thumb }}" class="db w-100" alt="image from {{ .Title }}"
-             style="aspect-ratio:16/9;object-fit:cover" loading="lazy">
+    {{ with $img }}
+      <a href="{{ $.RelPermalink }}" class="db grow mb3">
+        <img src="{{ (.Fill "600x340 Center q75").RelPermalink }}" class="db w-100"
+             alt="image from {{ $.Title }}" loading="lazy">
       </a>
     {{ end }}
     <div class="ph3">
