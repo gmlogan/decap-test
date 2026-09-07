@@ -5,11 +5,18 @@
     "ghcr.io/devcontainers/features/hugo:1": {
       "extended": true,
       "version": "0.165.0"
+    },
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "3.12",
+      "installTools": false
     }
   },
   "customizations": {
     "vscode": {
-      "extensions": ["eliostruyf.vscode-front-matter"]
+      "extensions": ["eliostruyf.vscode-front-matter"],
+      "settings": {
+        "frontMatter.dashboard.openOnStart": true
+      }
     }
   },
   "postCreateCommand": "git submodule update --init --recursive",
