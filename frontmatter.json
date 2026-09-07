@@ -10,7 +10,8 @@
     {
       "title": "posts",
       "path": "[[workspace]]/content/posts",
-      "contentType": ["post"]
+      "contentTypes": ["post"],
+      "filePrefix": "{{year}}-{{month}}-{{day}}"
     }
   ],
   "frontMatter.taxonomy.contentTypes": [
