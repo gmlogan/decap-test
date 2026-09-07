@@ -1,8 +1,7 @@
 media:
-  - name: uploads
-    label: Images
-    path: static/uploads
-    output: /uploads
+  input: static/uploads
+  output: /uploads
+  extensions: [jpg, jpeg, png, gif, webp, svg]
 
 content:
   - name: posts
