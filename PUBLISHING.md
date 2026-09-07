@@ -32,13 +32,24 @@ Live a minute later.
 
 ## New post
 
+**Easiest — the helper script** (names the folder, fills the front matter,
+prefills the date line, opens it in the editor):
+
 ```bash
-hugo new content posts/2026-07-05-some-place/index.md
+bin/new-post "The Bell Inn, Somewhere"
 ```
 
-- Put images in that **same folder**; reference them as `![](image-1.jpg)`.
-- Set `draft: false` in the front matter (drafts don't publish).
-- Then run the `git add / commit / push` cycle above.
+Add `2026-07-04` as a second argument to date it other than today. Then write
+the body, drop images in that **same folder** (`![](image-1.jpg)`), and run the
+`git add / commit / push` cycle.
+
+**In Front Matter CMS** — the "Create content" button uses the `post` content
+type from `frontmatter.json`: it makes the `YYYY-MM-DD-slug/index.md` bundle
+with the front matter filled in.
+
+**By hand / `hugo new`** — `hugo new content posts/some-place/index.md` uses
+`archetypes/posts.md`; rename the folder to add the `YYYY-MM-DD-` prefix and fix
+the `slug`.
 
 Front matter used on this site:
 
@@ -48,7 +59,7 @@ title: "Some Place"
 date: 2026-07-05
 draft: false
 slug: "some-place"
-wp_published: 2026-07-05   # optional, original blog date
+wp_published: 2026-07-05   # original blog date; = date for new posts
 ---
 ```
 
