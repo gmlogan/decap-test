@@ -6,7 +6,7 @@ slug: "crofton-hall"
 wp_published: 2026-04-24
 ---
 
-**23-24 April 2026**
+23rd-24th April 2026
 
 Stop off on way back North, about 20 mins West of Carlisle in the walled garden of an old Manor House.
 

@@ -1,10 +1,12 @@
 ---
-title: "May 18-20 2023, Ballater"
+title: "Ballater"
 date: 2023-05-18
 draft: false
 slug: "may-18-20-2023-ballater"
 wp_published: 2023-05-20
 ---
+
+18th-20th May 2023
 
 Had been there before several years ago after the terrible flood that destroyed it and a lot of the village houses.
 

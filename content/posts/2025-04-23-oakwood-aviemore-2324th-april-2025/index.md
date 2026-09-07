@@ -6,7 +6,7 @@ slug: "oakwood-aviemore-2324th-april-2025"
 wp_published: 2025-04-23
 ---
 
-23-24 April 2025
+23rd-24th April 2025
 
 Oakwood Caravan and Camping Park
 

@@ -6,7 +6,7 @@ slug: "oakwood-aviemore"
 wp_published: 2026-05-11
 ---
 
-May 11th-13th
+11th-13th May 2026
 
 Start of a week away around the Deeside coast, we think. Only thing booked is 2 nights here in Oakwood on the north side of Aviemore.
 

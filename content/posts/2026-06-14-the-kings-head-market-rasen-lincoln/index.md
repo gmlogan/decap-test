@@ -6,7 +6,7 @@ slug: "the-kings-head-market-rasen-lincoln"
 wp_published: "2026-07-08"
 ---
 
-14th June, 2026
+14th June 2026
 
 Our first pub stop over, what a choice, thatched roof and built in 1366.
 

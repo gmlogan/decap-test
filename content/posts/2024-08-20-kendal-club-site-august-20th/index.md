@@ -1,5 +1,5 @@
 ---
-title: "Kendal Club Site. August 20th"
+title: "Kendal Club Site"
 date: 2024-08-20
 draft: false
 slug: "kendal-club-site-august-20th"

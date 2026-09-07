@@ -1,10 +1,12 @@
 ---
-title: "Catrine House, Mauchline, Ayrshire, 13th March 2024"
+title: "Catrine House, Mauchline, Ayrshire"
 date: 2024-03-13
 draft: false
 slug: "catrine-house-mauchline-ayrshire"
 wp_published: 2024-03-13
 ---
+
+13th March 2024
 
 One night again just with Cleo. Nice walled garden area, some road noise and the ground is sodden which is no suprise given last night. The pitch is on gravel and dry immediately around the door areas
 

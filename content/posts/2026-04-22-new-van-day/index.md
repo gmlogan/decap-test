@@ -6,7 +6,7 @@ slug: "new-van-day"
 wp_published: 2026-04-22
 ---
 
-22 April 2026
+22nd April 2026
 
 After 3 years, almost to the day, we have moved on from the VW CamperKing Monte Carlo and took delivery today of a brand new Adria Twin 640 SGX 60th Edition.
 

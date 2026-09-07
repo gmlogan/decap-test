@@ -8,7 +8,7 @@ wp_published: 2026-05-18
 
 Coldstone near Banchory
 
-May 14th-15th, 2026
+14th-15th May 2026
 
 After the windy battering at Findhorn we moved for the last night in the van for this trip (stayed with Lynn and Dave in Westhill on the Friday) and ended up on a farm Aire.
 

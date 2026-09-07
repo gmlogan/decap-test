@@ -6,7 +6,7 @@ slug: "findhorn"
 wp_published: 2026-05-18
 ---
 
-May 13th-14th 2026
+13th-14th May 2026
 
 One night at Findhorn beach motorhome stop on the beach. Simple hard standing pitches with no hookup, but black, grey waste and fresh water.
 

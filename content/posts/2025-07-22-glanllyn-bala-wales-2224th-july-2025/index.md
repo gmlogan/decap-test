@@ -6,7 +6,7 @@ slug: "glanllyn-bala-wales-2224th-july-2025"
 wp_published: 2025-07-22
 ---
 
-22-24 July 2025
+22nd-24th July 2025
 
 Two nights at the side of Lake Bala.
 

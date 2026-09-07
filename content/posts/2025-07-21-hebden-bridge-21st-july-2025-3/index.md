@@ -6,7 +6,7 @@ slug: "hebden-bridge-21st-july-2025-3"
 wp_published: 2025-07-21
 ---
 
-21 July 2025
+21st July 2025
 
 One night stop over transferring from AirBnB with David, Gavin and Becky at Bednell Bay to North Wales.
 

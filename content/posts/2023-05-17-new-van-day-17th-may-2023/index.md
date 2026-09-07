@@ -1,12 +1,14 @@
 ---
-title: "New Van Day, 17th May 2023"
+title: "New Van Day"
 date: 2023-05-17
 draft: false
 slug: "new-van-day-17th-may-2023"
 wp_published: 2023-05-17
 ---
 
-Wed 17th May 2023, collected our new VW T.6.1 CamperKing MonteCarlo from Barry at CamperKing Scotland.
+17th May 2023
+
+Collected our new VW T.6.1 CamperKing MonteCarlo from Barry at CamperKing Scotland.
 
 Really pleased with the way our colour choices worked out and the van drives really well.
 

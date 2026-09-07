@@ -6,7 +6,7 @@ slug: "ltsc-ice-breaker"
 wp_published: 2026-05-05
 ---
 
-May 2nd-4th, 2026
+2nd-4th May 2026
 
 Took the van up to the sailing club at Loch Tummel for the opening event. As the chalet we have there is out of commission (dam water pipes and winter)
 

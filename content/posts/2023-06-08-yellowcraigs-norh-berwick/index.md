@@ -6,7 +6,7 @@ slug: "yellowcraigs-norh-berwick"
 wp_published: 2023-06-08
 ---
 
-8-11th June 2023
+8th-11th June 2023
 
 Just north of North Berwick, about 4km by paths into the centre. Down by the beach car park.
 

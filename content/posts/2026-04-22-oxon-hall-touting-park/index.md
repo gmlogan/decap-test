@@ -6,7 +6,7 @@ slug: "oxon-hall-touting-park"
 wp_published: 2026-04-23
 ---
 
-**22-23 April 2026**
+22nd-23rd April 2026
 
 First night with the new van we stayed close to the dealership in case of any issues, that way we would nip back the following morning.
 

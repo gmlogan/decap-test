@@ -8,7 +8,7 @@ wp_published: 2023-06-29
 
 Elgin Riverside Campsite
 
-June 29th-July 1st
+29th June - 1st July 2023
 
 Denise finally retired yesterday so marking that with 2 nights away.
 

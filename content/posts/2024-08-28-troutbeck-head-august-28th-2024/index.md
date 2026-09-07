@@ -6,7 +6,7 @@ slug: "troutbeck-head-august-28th-2024"
 wp_published: 2024-08-28
 ---
 
-28 August 2024
+28th August 2024
 
 Troutbeck Head Caravan and Camping Club
 

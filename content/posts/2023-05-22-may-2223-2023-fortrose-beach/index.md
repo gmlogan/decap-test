@@ -1,10 +1,12 @@
 ---
-title: "May 22&23 2023, Fortrose Beach"
+title: "Fortrose Beach"
 date: 2023-05-22
 draft: false
 slug: "may-2223-2023-fortrose-beach"
 wp_published: 2023-05-23
 ---
+
+22nd-23rd May 2023
 
 Second part of our 4 nights away.
 

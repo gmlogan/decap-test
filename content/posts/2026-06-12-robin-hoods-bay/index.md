@@ -6,7 +6,7 @@ slug: "robin-hoods-bay"
 wp_published: "2026-07-02"
 ---
 
-12-14th June 20207, Flyingthorpe
+12th-14th June 2026
 
 Got into the area late morning and parked up at the P&R for Whitby and managed to get the dog on the bus into town. It was basically as expected in what had been a busy fishing port, now mostly cruising yachts but still some working boats with fish & chips everywhere along with the seagulls. The walk out along the pier was nice and there were some nice small bitty shops but the Main Street was chains as expected and several scruffy coffee shops.
 

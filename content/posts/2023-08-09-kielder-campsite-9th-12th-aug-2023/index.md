@@ -1,10 +1,12 @@
 ---
-title: "Kielder Campsite, 9th-12th Aug, 2023"
+title: "Kielder Campsite"
 date: 2023-08-09
 draft: false
 slug: "kielder-campsite-9th-12th-aug-2023"
 wp_published: 2023-08-11
 ---
+
+9th-12th August 2023
 
 Community run campsite with lots of tent space and about 20 EHU hook ups for vans.
 

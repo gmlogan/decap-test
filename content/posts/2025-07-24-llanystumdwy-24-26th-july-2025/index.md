@@ -1,12 +1,12 @@
 ---
 title: "Llanystumdwy"
-date: 2025-07-26
+date: 2025-07-24
 draft: false
 slug: "llanystumdwy-24-26th-july-2025"
 wp_published: 2025-07-24
 ---
 
-26-26 July 2025
+24th-26th July 2025
 
 Llanystumdwy Camping and Caravanning Club Site
 

@@ -6,7 +6,7 @@ slug: "the-lakelindens"
 wp_published: 2026-06-11
 ---
 
-June 11/12th, 2026
+11th-12th June 2026
 
 Great find near Morpeth with 5 pitches around a small fishing pond. Water, waster and rubbish disposal for £15. As well as fishing there seems to be a donkey sanctuary in one field.
 

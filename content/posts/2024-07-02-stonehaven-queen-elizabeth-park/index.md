@@ -1,12 +1,12 @@
 ---
-title: "Stonehaven, Queen Elizabeth Park, 2nd to 3rd July 2024"
+title: "Stonehaven, Queen Elizabeth Park"
 date: 2024-07-02
 draft: false
 slug: "stonehaven-queen-elizabeth-park"
 wp_published: 2024-07-14
 ---
 
-2nd to 3rd July 2024
+2nd-3rd July 2024
 
 A test might to see how things went after ,y surgery for a broken hip. Nice site, for access to town and quiet surroundings despite being at edge of town.
 

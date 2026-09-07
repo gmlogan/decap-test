@@ -1,10 +1,12 @@
 ---
-title: "Craig Croft Aire, 12 March 2024"
+title: "Craig Croft Aire"
 date: 2024-03-12
 draft: false
 slug: "craig-croft-aire-12-march-2024"
 wp_published: 2024-03-12
 ---
+
+12th March 2024
 
 First trip of 2024, just Cleo and I as Denise is skiing with the girls.
 

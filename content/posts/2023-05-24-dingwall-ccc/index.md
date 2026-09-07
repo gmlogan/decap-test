@@ -6,7 +6,7 @@ slug: "dingwall-ccc"
 wp_published: 2023-05-23
 ---
 
-24 May 2023
+24th May 2023
 
 Part 3 off our 4 days away.
 

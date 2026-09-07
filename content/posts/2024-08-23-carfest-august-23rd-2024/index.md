@@ -6,7 +6,7 @@ slug: "carfest-august-23rd-2024"
 wp_published: 2024-08-25
 ---
 
-23-26 August 2024
+23rd-26th August 2024
 
 Carfest, Overton Basingstoke, RG25 3HJ
 

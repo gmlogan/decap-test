@@ -1,10 +1,12 @@
 ---
-title: "Yellowcraigs, North Berwick, 16-17 July 2024"
+title: "Yellowcraigs, North Berwick"
 date: 2024-07-16
 draft: false
 slug: "yellowcraigs-north-berwick-16-17-july"
 wp_published: 2024-07-16
 ---
+
+16th-17th July 2024
 
 One night back at Yellowcraigs. This time spot 48 close to toilet block but screening and relatively private.
 
