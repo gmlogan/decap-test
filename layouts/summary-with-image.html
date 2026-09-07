@@ -1,44 +1,41 @@
-{{/* project override: same as Ananke's, but the card image is a downscaled
-     thumbnail of the bundle image rather than the full-size original. */}}
+{{/* project override: image as a full-width banner on top of the card,
+     text beneath — reads better than side-by-side in the 3-column grid. */}}
 {{ $featured_image := partials.Include "func/GetFeaturedImage.html" . }}
 {{ $show_date := partials.Include "func/ShowDate.html" . }}
 
 {{ $thumb := $featured_image }}
 {{ with .Resources.ByType "image" }}
   {{ with (or (.GetMatch "**{feature,cover}*") (index . 0)) }}
-    {{ $thumb = (.Resize "480x q75").RelPermalink }}
+    {{ $thumb = (.Fill "600x340 Center q75").RelPermalink }}
   {{ end }}
 {{ end }}
 
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
-    <div class="flex-column flex-row-ns flex">
-      {{ if $featured_image }}
-        <div class="{{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pl3-ns" "pr3-ns" }} mb4 mb0-ns w-100 w-40-ns">
-          <a href="{{ .RelPermalink }}" class="db grow">
-            <img src="{{ $thumb }}" class="img" alt="image from {{ .Title }}">
-          </a>
-        </div>
+<article class="bb b--black-10 h-100">
+  <div class="db pb4 dark-gray no-underline">
+    {{ if $featured_image }}
+      <a href="{{ .RelPermalink }}" class="db grow mb3">
+        <img src="{{ $thumb }}" class="db w-100" alt="image from {{ .Title }}"
+             style="aspect-ratio:16/9;object-fit:cover" loading="lazy">
+      </a>
+    {{ end }}
+    <div class="ph3">
+      {{ if $show_date }}
+        <time class="f6 db" {{ fmt.Printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safe.HTMLAttr }}>
+          {{- .Date | time.Format (compare.Default "January 2, 2006" .Site.Params.date_format) -}}
+        </time>
       {{ end }}
-      <div class="blah w-100{{ if $featured_image }} w-60-ns {{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pr3-ns" "pl3-ns" }}{{ end }}">
-        {{ if $show_date }}
-          <time class="f6 db" {{ fmt.Printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safe.HTMLAttr }}>
-            {{- .Date | time.Format (compare.Default "January 2, 2006" .Site.Params.date_format) -}}
-          </time>
-        {{ end }}
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="{{ .RelPermalink }}" class="color-inherit dim link">
-            {{ .Title }}
-          </a>
-        </h1>
-        <p class="f6 f5-l lh-copy nested-copy-line-height">
-          {{ .Plain | htmlUnescape | strings.TrimSpace | truncate 160 "…" }}
-        </p>
-        {{ with .Params.author | compare.Default .Site.Params.author }}
-          <p class="f6 lh-copy mv0">By {{ . }}</p>
-        {{- end -}}
-        <a href="{{ .RelPermalink }}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">{{ $.Param "read_more_copy" | compare.Default (lang.Translate "readMore") }}</a>
-      </div>
+      <h1 class="f4 fw1 athelas mt0 lh-title">
+        <a href="{{ .RelPermalink }}" class="color-inherit dim link">
+          {{ .Title }}
+        </a>
+      </h1>
+      <p class="f6 lh-copy nested-copy-line-height">
+        {{ .Plain | htmlUnescape | strings.TrimSpace | truncate 160 "…" }}
+      </p>
+      {{ with .Params.author | compare.Default .Site.Params.author }}
+        <p class="f6 lh-copy mv0">By {{ . }}</p>
+      {{- end -}}
+      <a href="{{ .RelPermalink }}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">{{ $.Param "read_more_copy" | compare.Default (lang.Translate "readMore") }}</a>
     </div>
   </div>
 </article>
