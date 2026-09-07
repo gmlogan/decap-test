@@ -39,6 +39,13 @@ content:
         pattern:
           regex: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
           message: lowercase letters, numbers and hyphens only
+      - name: thumbnail
+        label: Featured image
+        type: image
+        options:
+          input: static/uploads
+          output: /uploads
+  
       - name: wp_published
         label: Original blog date
         type: date
