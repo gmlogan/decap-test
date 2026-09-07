@@ -9,5 +9,5 @@ wp_published: 2026-09-07
 
 ![](<Screenshot 2026-09-07 at 20.17.10.png>)
 
-![](</uploads/Screenshot 2026-09-06 at 10.28.56.png>)
+
 
