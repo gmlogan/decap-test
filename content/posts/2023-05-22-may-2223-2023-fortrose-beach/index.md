@@ -14,7 +14,7 @@ What a lovely site, right on the beach (stones) with the waves blowing on, stunn
 
 [
 ![](may-2223-2023-fortrose-beach-1.jpg)
-](https://draft.blogger.com/blog/post/edit/8415615817903499976/9054830911059715912?hl=en-GB#)
+]
 
 Noted it was 1/2 the price of Rosemarkie that is 500m away on the other side of the point but with a sandy beach and more shelter from the prevailing westerly wind.
 
