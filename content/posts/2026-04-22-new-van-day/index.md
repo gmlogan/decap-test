@@ -1,9 +1,11 @@
 ---
-title: "New Van Day"
+title: New Van Day
 date: 2026-04-22
 draft: false
-slug: "new-van-day"
+slug: new-van-day
 wp_published: 2026-04-22
+tags:
+  - Vans
 ---
 
 22nd April 2026
