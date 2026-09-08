@@ -8,15 +8,5 @@
         });
       }
     });
-    // Send invite / password-recovery / confirmation links straight to the
-    // CMS admin page, where the widget can complete the flow, instead of
-    // stranding the #token fragment on an ordinary content page.
-    if (
-      document.location.hash &&
-      /invite_token=|recovery_token=|confirmation_token=/.test(document.location.hash) &&
-      document.location.pathname !== "/admin/"
-    ) {
-      document.location.href = "/admin/" + document.location.hash;
-    }
   }
 </script>
