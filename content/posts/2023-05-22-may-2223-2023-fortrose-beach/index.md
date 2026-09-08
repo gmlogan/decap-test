@@ -36,10 +36,7 @@ Cleo lived running on the beach and playing in the sea, continued on up the Fair
 
 
 ![](may-2223-2023-fortrose-beach-4.jpg)
-(https://draft.blogger.com/blog/post/edit/8415615817903499976/9054830911059715912?hl=en-GB#)
-[
 ![](may-2223-2023-fortrose-beach-5.jpg)
-](https://draft.blogger.com/blog/post/edit/8415615817903499976/9054830911059715912?hl=en-GB#)
 
 Fortrose Bay Campsite
 

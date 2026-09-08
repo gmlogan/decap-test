@@ -16,9 +16,7 @@ Trying an awning for the first time, what a difference in space! This one is bor
 
 Site is very calm, mostly statics but the touring pitches are spacious and we are on a terrace by the river.
 
-[
 ![](elgin-riverside-1.jpg)
-](http://loganvantravels.great-site.net/wp-content/uploads/2023/06/elgin-riverside-1362582238.jpg)
 
 [
 ![](elgin-riverside-2.jpg)

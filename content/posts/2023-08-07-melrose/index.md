@@ -20,9 +20,7 @@ Melrose Gibson Site
 
 https://maps.google.com/?cid=5738316844443429398&entry=gps
 
-[
 ![](melrose-1.jpg)
-](http://loganvantravels.great-site.net/wp-content/uploads/2023/08/melrose-836006558.jpg)
 
 [
 ![](melrose-2.jpg)

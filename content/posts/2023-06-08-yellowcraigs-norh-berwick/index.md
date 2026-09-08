@@ -18,25 +18,15 @@ Nearest bar/restaurant about 2.5 km at Dirilton along the John Muir Way. Eat the
 
 Gave and Becky came down Saturday afternoon and tired the dig out on the beach.
 
-[
 ![](yellowcraigs-norh-berwick-1.jpg)
-](http://loganvantravels.great-site.net/wp-content/uploads/2023/06/yellowcraigs-norh-berwick-1630964886.jpg)
 
-[
 ![](yellowcraigs-norh-berwick-2.jpg)
-](https://loganvantravels.great-site.net/wp-content/uploads/2026/08/Yellowcraigs-North-Berwick-2026-1788202159.jpg)
 
-[
 ![](yellowcraigs-norh-berwick-3.jpg)
-](https://loganvantravels.great-site.net/wp-content/uploads/2026/08/Yellowcraigs-North-Berwick-2026-1788202161.jpg)
 
-[
 ![](yellowcraigs-norh-berwick-4.jpg)
-](https://loganvantravels.great-site.net/wp-content/uploads/2026/08/Yellowcraigs-North-Berwick-2026-1788202163.jpg)
 
-[
 ![](yellowcraigs-norh-berwick-5.jpg)
-](https://loganvantravels.great-site.net/wp-content/uploads/2026/08/Yellowcraigs-North-Berwick-2026-1788202166.jpg)
 
 Yellowcraig Caravan and Motorhome Club Campsite
 

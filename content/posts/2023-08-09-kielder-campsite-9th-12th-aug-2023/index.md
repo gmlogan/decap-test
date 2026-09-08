@@ -20,9 +20,7 @@ Kielder Campsite
 
 https://maps.app.goo.gl/r4VNDA9NisTLpYVAA
 
-[
 ![](kielder-campsite-9th-12th-aug-2023-1.jpg)
-](http://loganvantravels.great-site.net/wp-content/uploads/2023/08/kielder-campsite-9th-12th-aug-2023-1797643551.jpg)
 
 [
 ![](kielder-campsite-9th-12th-aug-2023-2.jpg)
