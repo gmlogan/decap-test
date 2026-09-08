@@ -1,0 +1,61 @@
+backend:
+  name: git-gateway
+  branch: main
+
+publish_mode: simple
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: posts
+    label: Trips
+    label_singular: Trip
+    folder: content/posts
+    create: true
+    slug: "{{fields.slug}}"
+    path: "{{fields.date}}-{{fields.slug}}/index"
+    extension: md
+    media_folder: ""
+    public_folder: ""
+    view_filters:
+      - label: Published
+        field: draft
+        value: false
+      - label: Drafts
+        field: draft
+        value: true
+    view_groups:
+      - label: Year
+        field: date
+        pattern: "\\d{4}"
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - label: "Trip date"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        required: true
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - label: "Slug (URL)"
+        name: "slug"
+        widget: "string"
+        required: true
+        pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "lowercase letters, numbers and hyphens only"]
+      - label: "Featured image"
+        name: "thumbnail"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - label: "Original blog date"
+        name: "wp_published"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        required: false
+      - { label: "Body", name: "body", widget: "markdown" }
