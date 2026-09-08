@@ -21,10 +21,10 @@ collections:
     view_filters:
       - label: Published
         field: draft
-        value: false
+        pattern: "false"
       - label: Drafts
         field: draft
-        value: true
+        pattern: "true"
     view_groups:
       - label: Year
         field: date
